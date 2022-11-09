@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "caZuW9yRyR7YAcUYq7XpZV9N5QhsVIkIeSxsk4gdcdKhpIc9SmqVDIO+C6irkgLFvhnrc9Bza/H52BrSeTTNjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bhnr_\\Downloads\\PaparaSecondWeek-main\\PaparaSecondWeek\\PaparaSecondWeek\\PaparaSecondWeek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhnr_\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\bhnr_\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\bhnr_\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\bhnr_\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\bhnr_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\bhnr_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\bhnr_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
